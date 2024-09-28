@@ -61,6 +61,6 @@ We use this categorical data encoding technique when the features are nominal(do
 ![image](https://github.com/user-attachments/assets/414544c4-3c1c-4acc-8cfc-a1291343341a)
 
 # RESULT:
-       Feature encoding and transformation process is performed successfully and data is saved to the file.
+ Feature encoding and transformation process is performed successfully and data is saved to the file.
 
        
